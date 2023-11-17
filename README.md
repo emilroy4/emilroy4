@@ -1,5 +1,5 @@
 # 💫 About Me:
-Aspiring Computer Science Student seeking an internship
+Computer Science Student 
 
 
 ## 🌐 Socials:
