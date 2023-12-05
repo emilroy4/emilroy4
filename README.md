@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Student 
+Im a third year computer science student at TUD!
 
 
 ## 🌐 Socials:
