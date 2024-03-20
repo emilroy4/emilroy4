@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im a third year computer science student at TUD!
+Welcome to my GitHub profile!
 
 
 ## 🌐 Socials:
