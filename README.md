@@ -2,6 +2,7 @@
 Hi, I’m Emil Roy, a Computer Science student at TU Dublin, graduating in 2025. I specialise in Java, Python, JavaScript and Typescript, with experience in React, Next.js, and Django. Alongside software development, I’m deeply passionate about cybersecurity, with certifications in Google Cybersecurity, AI Essentials, and Python for Cybersecurity.
 
 🌟 Interests: Full Stack Development, cybersecurity and blockchain.
+
 💻 Current Projects: Decentralised voting system with blockchain, location-based services app, and exploring advanced security concepts.
 
 
